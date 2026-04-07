@@ -1,5 +1,5 @@
 🎓 Education
-- **Software Analysis and Development** @ FIAP
+- **Software Analysis and Development** @FIAP
 
 💻 Tech Stack
 - **Languages:** Front-End React
