@@ -1,5 +1,5 @@
 🎓 Education
-- **Software Analysis and Development** | FIAP (2026-2028)
+- **Software Analysis and Development** | FIAP (Feb/2026-Nov/2027)
 - **Computer technician** | Senac
 
 📖 Studying
