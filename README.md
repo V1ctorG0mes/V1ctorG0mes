@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente desenvolvendo minha **Fintech** | I'm currently working on **Fintech**
 
-- 🌱 Atualmente aprendendo **Java e React** I'm currently learning **Java and React**
+- 🌱 Atualmente aprendendo **Java e React** | I'm currently learning **Java and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
