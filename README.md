@@ -11,7 +11,7 @@ Desenvolvendo minha Fintech | I am currently building a fintech startup
 
 #  GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=V1ctorG0mes&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=V1ctorG0mes&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=V1ctorG0mes&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=html,css)
 
 
 #  Tech Stack:
