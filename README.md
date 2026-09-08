@@ -1,5 +1,12 @@
-# 💫 Sobre mim | About Me:
-PT-BR | EN<br>Análise e Desenvolvimento de Sistemas (FIAP) | Systems Analysis and Development (FIAP)<br>Desenvolvendo minha Fintech | I am currently building a fintech startup<br>
+<div align="center">
+
+# 📡 Sobre mim | About Me
+
+PT-BR | EN<br>
+Análise e Desenvolvimento de Sistemas (FIAP) | Systems Analysis and Development (FIAP)<br>
+Desenvolvendo minha Fintech | I am currently building a fintech startup
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=V1ctorG0mes&theme=bear&hide_border=true)<br/>
